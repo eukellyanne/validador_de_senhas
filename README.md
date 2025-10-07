@@ -41,22 +41,6 @@ Python + Pytest
    cd  validador_de_senhas
 
    
-## Estrutura do Código 
-
-VALIDADOR_DE_SENHAS/
-│
-├── src/
-│   ├── __init__.py
-│   └── password_validator.py
-│
-├── tests/
-│   └── test_password_validator.py
-│
-├── .coverage
-├── .gitignore
-├── pytest.ini
-├── README.md
-└── requirements.txt
 
 
 
