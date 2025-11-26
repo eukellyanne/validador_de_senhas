@@ -1,4 +1,4 @@
-# Validador de Senhas (Avaliação QA)
+# Validador de Senhas 
 
 ## Descrição do Projeto
 
